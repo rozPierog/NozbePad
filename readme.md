@@ -1,4 +1,4 @@
-# Nozbe Macropad handwired
+# Nozbe Macropad (PedroPad)
 
 ![Nozbe Macropad](/resources/header.png)
 
