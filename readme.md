@@ -14,6 +14,10 @@ Enter the bootloader in 1 way:
 
 * **Short pins**: short RST and GND pins at the back
 
+## QMK Configurator
+
+Configure keymap using [QMK Configurator](https://config.qmk.fm/#/handwired/nozbe_macro/LAYOUT)
+
 ## BOM
 
 [BOM.md](/BOM.md)
